@@ -2,7 +2,7 @@
 **A passionate B.TECH"27 | CSE(AI) | Diploma in Electrical Engineering | DSA | Prompt AI Developer | Web Development | Tech Enthusiast from India**
 
 - 🔭 **I’m currently working on:** One-Stop Personalized Career & Education Advisor
-- 🌱 **I’m currently learning:** DJANGO
+- 🌱 **I’m currently learning:** FULL STACK WEB DEVELOPMENT
 - 👯 **I’m looking to collaborate on:** Innovative tech projects, creative content ideas, and anything that makes learning easier and fun
 - 🤔 **I’m looking for help with:** Expanding my current project and connecting with passionate contributors who share the same vision.
 - 💬 **Ask me about:** Collaboration, Tech Support, or anything around learning and creating with technology.

@@ -1,11 +1,11 @@
 <p align="center">
-  <img src="./assets/agent-network-banner.png" alt="Abstract AI agent network" width="100%" />
+  <img src="https://raw.githubusercontent.com/Cod4Nitish/Cod4Nitish/main/assets/agent-network-banner.png" alt="Abstract AI agent network" width="100%" />
 </p>
 
-<h1 align="center">Hi, I'm Nitish Singh <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30" alt="Waving hand" /></h1>
+<h1 align="center">Building thoughtful software with AI</h1>
 
 <p align="center">
-  <strong>AI & Full-Stack Developer</strong> · Building useful products, agentic workflows, and polished web experiences from India.
+  <strong>Nitish Singh</strong> · AI & Full-Stack Developer · Building useful products, agentic workflows, and polished web experiences from India.
 </p>
 
 <p align="center">
@@ -21,12 +21,12 @@ I’m a B.Tech Computer Science (AI) student who enjoys turning ambitious ideas 
 > I value meaningful daily progress: a documented decision, a tested improvement, a focused feature, or a useful review — never empty contribution commits.
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Cod4Nitish&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&rank_icon=github" alt="Nitish's GitHub statistics" />
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Cod4Nitish&theme=tokyonight" alt="Nitish's GitHub statistics" />
   <img height="165" src="https://streak-stats.demolab.com?user=Cod4Nitish&theme=tokyonight&hide_border=true" alt="Nitish's GitHub contribution streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Cod4Nitish&bg_color=0B1021&color=B9A7FF&line=38BDF8&point=FB7185&area=true&area_color=312E81&hide_border=true" alt="Nitish's contribution activity graph" width="100%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Cod4Nitish&theme=tokyonight" alt="Nitish's GitHub contribution summary" width="100%" />
 </p>
 
 ## Featured work

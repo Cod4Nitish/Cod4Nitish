@@ -16,7 +16,7 @@
 
 ## What I build
 
-I’m a B.Tech Computer Science (AI) student who enjoys turning ambitious ideas into clear, usable software. My work sits where **AI agents**, **retrieval-augmented systems**, **TypeScript products**, and **developer tooling** meet.
+I’m a B.Tech Computer Science (AI) student who enjoys turning ambitious ideas into clear, usable software. My work sits where **AI agents**, **RAG systems**, **agent orchestration pipelines**, **microservices**, and **TypeScript products** meet.
 
 > I value meaningful daily progress: a documented decision, a tested improvement, a focused feature, or a useful review — never empty contribution commits.
 
@@ -38,18 +38,24 @@ I’m a B.Tech Computer Science (AI) student who enjoys turning ambitious ideas 
 | [**Portfolio**](https://cod4nitish.github.io/portfolio/) | An interactive portfolio for selected product and engineering work. | React · Vite · Three.js · Framer Motion |
 | [**PhishGuard-AI**](https://github.com/Cod4Nitish/PhishGuard-AI) | A phishing-awareness and URL-security UX prototype with clearly simulated scans and threat visualisations. | React · TypeScript · Tailwind CSS |
 
+## Capabilities
+
+- **AI & LLM systems** — prompt engineering, LangChain/LangGraph workflows, agentic graphs, multi-agent orchestration, RAG, and retrieval pipelines.
+- **Backend & platform** — TypeScript/Node.js, NestJS, API design, microservices, PostgreSQL, and automation-first integrations.
+- **Delivery & DevOps** — GitHub Actions, CI/CD foundations, Docker/Kubernetes workflows, documentation, and reliable developer handoffs.
+
 ## Toolkit
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,python,react,nextjs,nodejs,nestjs,postgres,git,githubactions&theme=dark" alt="TypeScript, JavaScript, Python, React, Next.js, Node.js, NestJS, PostgreSQL, Git, GitHub Actions" />
+  <img src="https://skillicons.dev/icons?i=ts,js,python,react,nextjs,nodejs,nestjs,postgres,docker,kubernetes,git,githubactions&theme=dark" alt="TypeScript, JavaScript, Python, React, Next.js, Node.js, NestJS, PostgreSQL, Docker, Kubernetes, Git, GitHub Actions" />
 </p>
 
 ```mermaid
 flowchart LR
     A[Product problem] --> B[Design a clear experience]
-    B --> C[Build the system]
-    C --> D[AI agents / RAG where useful]
-    D --> E[Test, document, iterate]
+    B --> C[APIs / microservices]
+    C --> D[AI agents / RAG / automation]
+    D --> E[CI/CD, test, document, iterate]
 ```
 
 ## Let’s connect

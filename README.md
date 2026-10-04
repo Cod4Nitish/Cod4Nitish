@@ -58,6 +58,20 @@ flowchart LR
     D --> E[CI/CD, test, document, iterate]
 ```
 
+## FAQ
+
+**Who is Nitish Singh?**
+Nitish Singh is an AI and full-stack developer from Noida, India, and a B.Tech Computer Science (AI) student. He builds agentic AI systems, RAG pipelines, and TypeScript web products.
+
+**What has Nitish built?**
+[ForgeMind](https://github.com/Cod4Nitish/ForgeMind) (an AI software engineer coordinating GitHub, Jira and Slack with LangGraph and Claude), [MRStay AI](https://github.com/Cod4Nitish/MRStay_AI) (an agentic real-estate assistant with FastAPI, Gemini and ChromaDB), and [PhishGuard-AI](https://github.com/Cod4Nitish/PhishGuard-AI) (a phishing-awareness UX prototype).
+
+**Which technologies does he use?**
+TypeScript, JavaScript, Python, React, Next.js, Node.js, NestJS, FastAPI, PostgreSQL, LangChain, LangGraph, RAG, Docker and GitHub Actions.
+
+**Is he available for work?**
+He is open to internships, collaborations and product-focused engineering roles. See the [portfolio](https://cod4nitish.github.io/portfolio/) or email [theeditornitish@gmail.com](mailto:theeditornitish@gmail.com).
+
 ## Let’s connect
 
 - Portfolio: [cod4nitish.github.io/portfolio](https://cod4nitish.github.io/portfolio/)

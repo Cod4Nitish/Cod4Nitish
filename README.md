@@ -28,7 +28,7 @@
   <a href="https://cod4nitish.github.io/portfolio/">
     <img src="https://img.shields.io/badge/Portfolio-0B1021?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
-  <a href="https://www.linkedin.com/in/nitish-6206-nk">
+  <a href="https://www.linkedin.com/in/nitish-ai-engineer">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:theeditornitish@gmail.com">
@@ -71,17 +71,17 @@ I like taking an idea from:
 ## 🧠 AI & Engineering Focus
 
 <p align="center">
-  <img src="https://img.shields.io/badge/AI%20Agents-111827?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/RAG-172554?style=for-the-badge&logo=databricks&logoColor=white" />
-  <img src="https://img.shields.io/badge/LangGraph-1E293B?style=for-the-badge&logo=graphql&logoColor=white" />
-  <img src="https://img.shields.io/badge/LLM%20Systems-312E81?style=for-the-badge&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI%20Agents-111827?style=for-the-badge&logo=openai&logoColor=white" alt="AI Agents" />
+  <img src="https://img.shields.io/badge/RAG-172554?style=for-the-badge&logo=databricks&logoColor=white" alt="RAG" />
+  <img src="https://img.shields.io/badge/LangGraph-1E293B?style=for-the-badge&logo=graphql&logoColor=white" alt="LangGraph" />
+  <img src="https://img.shields.io/badge/LLM%20Systems-312E81?style=for-the-badge&logo=google&logoColor=white" alt="LLM Systems" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/TypeScript-0F172A?style=for-the-badge&logo=typescript&logoColor=3178C6" />
-  <img src="https://img.shields.io/badge/Node.js-0F172A?style=for-the-badge&logo=nodedotjs&logoColor=5FA04E" />
-  <img src="https://img.shields.io/badge/NestJS-0F172A?style=for-the-badge&logo=nestjs&logoColor=E0234E" />
-  <img src="https://img.shields.io/badge/Python-0F172A?style=for-the-badge&logo=python&logoColor=3776AB" />
+  <img src="https://img.shields.io/badge/TypeScript-0F172A?style=for-the-badge&logo=typescript&logoColor=3178C6" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Node.js-0F172A?style=for-the-badge&logo=nodedotjs&logoColor=5FA04E" alt="Node.js" />
+  <img src="https://img.shields.io/badge/NestJS-0F172A?style=for-the-badge&logo=nestjs&logoColor=E0234E" alt="NestJS" />
+  <img src="https://img.shields.io/badge/Python-0F172A?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python" />
 </p>
 
 <br>
@@ -101,7 +101,7 @@ A secure engineering command center that reasons over GitHub issues and coordina
 `Next.js` · `TypeScript` · `LangGraph` · `Claude`
 
 <a href="https://github.com/Cod4Nitish/ForgeMind">
-  <img src="https://img.shields.io/badge/View%20Repository-111827?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/View%20Repository-111827?style=for-the-badge&logo=github&logoColor=white" alt="ForgeMind repository" />
 </a>
 
 </td>
@@ -117,7 +117,7 @@ An in-development agentic platform for real-estate conversations, lead qualifica
 `NestJS` · `Python` · `RAG` · `Gemini`
 
 <a href="https://github.com/Cod4Nitish/MRStay_AI">
-  <img src="https://img.shields.io/badge/View%20Repository-111827?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/View%20Repository-111827?style=for-the-badge&logo=github&logoColor=white" alt="MRStay AI repository" />
 </a>
 
 </td>
@@ -135,7 +135,7 @@ An interactive portfolio for selected product and engineering work.
 `React` · `Vite` · `Three.js` · `Framer Motion`
 
 <a href="https://cod4nitish.github.io/portfolio/">
-  <img src="https://img.shields.io/badge/Visit%20Portfolio-2563EB?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Visit%20Portfolio-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio website" />
 </a>
 
 </td>
@@ -151,7 +151,7 @@ A phishing-awareness and URL-security UX prototype with simulated scans and thre
 `React` · `TypeScript` · `Tailwind CSS`
 
 <a href="https://github.com/Cod4Nitish/PhishGuard-AI">
-  <img src="https://img.shields.io/badge/View%20Repository-111827?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/View%20Repository-111827?style=for-the-badge&logo=github&logoColor=white" alt="PhishGuard-AI repository" />
 </a>
 
 </td>
@@ -296,7 +296,10 @@ flowchart LR
 ## 🌱 Currently Exploring
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=2600&pause=1000&color=8B5CF6&center=true&vCenter=true&width=700&lines=Agentic+AI+Architecture;Advanced+RAG+Systems;Multi-Agent+Orchestration;Production-Ready+AI+Applications;Better+Developer+Experiences" alt="Currently exploring animation" />
+  <img
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=2600&pause=1000&color=8B5CF6&center=true&vCenter=true&width=700&lines=Agentic+AI+Architecture;Advanced+RAG+Systems;Multi-Agent+Orchestration;Production-Ready+AI+Applications;Better+Developer+Experiences"
+    alt="Currently exploring animation"
+  />
 </p>
 
 <br>
@@ -337,13 +340,16 @@ He is open to internships, collaborations and product-focused engineering roles.
 
 <p align="center">
   <a href="https://cod4nitish.github.io/portfolio/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-2563EB?style=for-the-badge&logo=vercel&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-Visit-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
-  <a href="https://www.linkedin.com/in/nitish-6206-nk">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://www.linkedin.com/in/nitish-ai-engineer">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:theeditornitish@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/Cod4Nitish">
+    <img src="https://img.shields.io/badge/GitHub-Cod4Nitish-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" />
   </a>
 </p>
 

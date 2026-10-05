@@ -1,18 +1,16 @@
 <p align="center">
   <img
     src="https://capsule-render.vercel.app/api?type=waving&height=230&text=Nitish%20Singh&fontAlign=50&fontAlignY=38&fontSize=48&fontColor=ffffff&desc=AI%20%E2%80%A2%20Full-Stack%20Development%20%E2%80%A2%20Agentic%20Systems&descAlign=50&descAlignY=62&descSize=18&animation=fadeIn&color=0:0B1021,50:111827,100:2563EB"
-    alt="Nitish Singh animated GitHub banner"
+    alt="Nitish Singh"
     width="100%"
   />
 </p>
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img
-      src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&width=760&lines=Building+thoughtful+software+with+AI;Designing+agentic+systems+and+RAG+pipelines;Turning+ambitious+ideas+into+usable+products;Learning+%E2%80%A2+Building+%E2%80%A2+Iterating"
-      alt="Typing animation"
-    />
-  </a>
+  <img
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&width=760&lines=Building+thoughtful+software+with+AI;Designing+agentic+systems+and+RAG+pipelines;Turning+ambitious+ideas+into+usable+products;Learning+%E2%80%A2+Building+%E2%80%A2+Iterating"
+    alt="Typing animation"
+  />
 </p>
 
 <p align="center">
@@ -20,8 +18,9 @@
 </p>
 
 <p align="center">
-  I build useful products around <strong>AI agents</strong>, <strong>RAG</strong>,
-  <strong>automation</strong>, and <strong>modern web technologies</strong>.
+  Building useful products around <strong>AI agents</strong>,
+  <strong>RAG</strong>, <strong>automation</strong>, and
+  <strong>modern web technologies</strong>.
 </p>
 
 <p align="center">
@@ -32,7 +31,10 @@
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:theeditornitish@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Nitish" />
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/Cod4Nitish">
+    <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
 
@@ -41,32 +43,38 @@
 <p align="center">
   <img
     src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:2563EB,50:58A6FF,100:7C3AED"
-    width="80%"
+    width="72%"
     alt=""
   />
 </p>
 
 ## ⚡ What I Build
 
-I’m a **B.Tech Computer Science (AI) student** who enjoys turning ambitious ideas into clear, usable software.
+I’m a **B.Tech Computer Science (AI) student** focused on turning ambitious ideas into clear, usable software.
 
-My work sits where **AI agents**, **RAG systems**, **agent orchestration**, **microservices**, and **TypeScript products** meet.
+My work sits at the intersection of:
 
-I like taking an idea from:
+**AI Agents · RAG · Agent Orchestration · Backend Systems · TypeScript Products**
 
-**Problem → Architecture → Prototype → AI Integration → Testing → Deployment**
-
-> I value meaningful daily progress: a documented decision, a tested improvement, a focused feature, or a useful review — never empty contribution commits.
-
-<br>
+I enjoy taking products from:
 
 <p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:7C3AED,50:58A6FF,100:2563EB"
-    width="65%"
-    alt=""
-  />
+  <strong>Problem</strong>
+  →
+  <strong>Architecture</strong>
+  →
+  <strong>Prototype</strong>
+  →
+  <strong>AI Integration</strong>
+  →
+  <strong>Testing</strong>
+  →
+  <strong>Deployment</strong>
 </p>
+
+> I value meaningful progress — a documented decision, a tested improvement, a focused feature, or a useful review.
+
+<br>
 
 ## 🧠 AI & Engineering Focus
 
@@ -90,68 +98,76 @@ I like taking an idea from:
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🔥 ForgeMind
 
-A secure engineering command center that reasons over GitHub issues and coordinates Jira and Slack work.
+**AI Software Engineer**
+
+A secure engineering command center that reasons over GitHub issues and coordinates Jira and Slack workflows.
 
 **Stack**
 
 `Next.js` · `TypeScript` · `LangGraph` · `Claude`
 
 <a href="https://github.com/Cod4Nitish/ForgeMind">
-  <img src="https://img.shields.io/badge/View%20Repository-111827?style=for-the-badge&logo=github&logoColor=white" alt="ForgeMind repository" />
+  <img src="https://img.shields.io/badge/Explore%20ForgeMind-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="ForgeMind" />
 </a>
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🏠 MRStay AI
 
-An in-development agentic platform for real-estate conversations, lead qualification, and property knowledge retrieval.
+**Agentic Real-Estate Platform**
+
+An in-development AI platform for real-estate conversations, lead qualification, and property knowledge retrieval.
 
 **Stack**
 
 `NestJS` · `Python` · `RAG` · `Gemini`
 
 <a href="https://github.com/Cod4Nitish/MRStay_AI">
-  <img src="https://img.shields.io/badge/View%20Repository-111827?style=for-the-badge&logo=github&logoColor=white" alt="MRStay AI repository" />
+  <img src="https://img.shields.io/badge/Explore%20MRStay%20AI-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="MRStay AI" />
 </a>
 
 </td>
 </tr>
 
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🌐 Portfolio
 
-An interactive portfolio for selected product and engineering work.
+**Interactive Developer Portfolio**
+
+An interactive portfolio showcasing selected product, engineering, and creative work.
 
 **Stack**
 
 `React` · `Vite` · `Three.js` · `Framer Motion`
 
 <a href="https://cod4nitish.github.io/portfolio/">
-  <img src="https://img.shields.io/badge/Visit%20Portfolio-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio website" />
+  <img src="https://img.shields.io/badge/Visit%20Portfolio-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
 </a>
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🛡️ PhishGuard-AI
 
-A phishing-awareness and URL-security UX prototype with simulated scans and threat visualisations.
+**Security UX Prototype**
+
+A phishing-awareness and URL-security prototype with simulated scans and threat visualisations.
 
 **Stack**
 
 `React` · `TypeScript` · `Tailwind CSS`
 
 <a href="https://github.com/Cod4Nitish/PhishGuard-AI">
-  <img src="https://img.shields.io/badge/View%20Repository-111827?style=for-the-badge&logo=github&logoColor=white" alt="PhishGuard-AI repository" />
+  <img src="https://img.shields.io/badge/Explore%20Project-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="PhishGuard-AI" />
 </a>
 
 </td>
@@ -160,15 +176,7 @@ A phishing-awareness and URL-security UX prototype with simulated scans and thre
 
 <br>
 
-<p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:2563EB,50:58A6FF,100:7C3AED"
-    width="65%"
-    alt=""
-  />
-</p>
-
-## 🛠️ Toolkit
+## 🛠️ Tech Stack
 
 <p align="center">
   <img
@@ -190,50 +198,52 @@ A phishing-awareness and URL-security UX prototype with simulated scans and thre
 
 <table>
 <tr>
-<td valign="top" width="33%">
+
+<td width="33%" valign="top">
 
 ### 🤖 AI & LLM
 
-- Prompt engineering
+- Prompt Engineering
 - LangChain
 - LangGraph
-- Agentic workflows
-- Multi-agent orchestration
-- RAG pipelines
-- Retrieval systems
-- LLM integrations
+- Agentic Workflows
+- Multi-Agent Systems
+- RAG Pipelines
+- Retrieval Systems
+- LLM Integrations
 
 </td>
 
-<td valign="top" width="33%">
+<td width="33%" valign="top">
 
-### ⚙️ Backend & Platform
+### ⚙️ Backend
 
 - TypeScript / Node.js
 - NestJS
 - FastAPI
-- API design
+- API Design
 - Microservices
 - PostgreSQL
 - Automation
-- Third-party integrations
+- Integrations
 
 </td>
 
-<td valign="top" width="33%">
+<td width="33%" valign="top">
 
-### 🚢 Delivery & DevOps
+### 🚢 DevOps
 
 - GitHub Actions
-- CI/CD foundations
+- CI/CD
 - Docker
-- Kubernetes workflows
+- Kubernetes
 - Git & GitHub
 - Documentation
-- Developer handoffs
-- Iterative delivery
+- Testing
+- Deployment
 
 </td>
+
 </tr>
 </table>
 
@@ -245,19 +255,19 @@ A phishing-awareness and URL-security UX prototype with simulated scans and thre
   <img
     height="165"
     src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Cod4Nitish&theme=tokyonight"
-    alt="Nitish's GitHub statistics"
+    alt="GitHub statistics"
   />
   <img
     height="165"
     src="https://streak-stats.demolab.com?user=Cod4Nitish&theme=tokyonight&hide_border=true"
-    alt="Nitish's GitHub contribution streak"
+    alt="GitHub contribution streak"
   />
 </p>
 
 <p align="center">
   <img
     src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Cod4Nitish&theme=tokyonight"
-    alt="Nitish's GitHub contribution summary"
+    alt="GitHub contribution summary"
     width="100%"
   />
 </p>
@@ -268,10 +278,14 @@ A phishing-awareness and URL-security UX prototype with simulated scans and thre
 
 <p align="center">
   <img
-    src="https://github-profile-trophy.vercel.app/?username=Cod4Nitish&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=4"
+    src="./assets/github-trophies.svg"
     alt="Nitish's GitHub trophies"
-    width="90%"
+    width="92%"
   />
+</p>
+
+<p align="center">
+  <sub>Automatically updated from GitHub activity.</sub>
 </p>
 
 <br>
@@ -280,10 +294,10 @@ A phishing-awareness and URL-security UX prototype with simulated scans and thre
 
 ```mermaid
 flowchart LR
-    A[💡 Product Problem] --> B[🧠 Understand]
+    A[💡 Problem] --> B[🧠 Understand]
     B --> C[🎨 Design]
-    C --> D[⚙️ Build APIs]
-    D --> E[🤖 AI / Agents / RAG]
+    C --> D[⚙️ Build]
+    D --> E[🤖 AI / RAG / Agents]
     E --> F[🧪 Test]
     F --> G[🚀 Deploy]
     G --> H[📚 Document]
@@ -297,41 +311,68 @@ flowchart LR
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=2600&pause=1000&color=8B5CF6&center=true&vCenter=true&width=700&lines=Agentic+AI+Architecture;Advanced+RAG+Systems;Multi-Agent+Orchestration;Production-Ready+AI+Applications;Better+Developer+Experiences"
-    alt="Currently exploring animation"
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=2600&pause=1000&color=8B5CF6&center=true&vCenter=true&width=720&lines=Agentic+AI+Architecture;Advanced+RAG+Systems;Multi-Agent+Orchestration;Production-Ready+AI+Applications;Better+Developer+Experiences"
+    alt="Currently exploring"
   />
 </p>
 
 <br>
 
-## 👨‍💻 About Nitish
+## 🎯 Engineering Philosophy
 
-**Who is Nitish Singh?**
+<table>
+<tr>
+<td width="33%" align="center">
 
-Nitish Singh is an AI and full-stack developer from Noida, India, and a B.Tech Computer Science (AI) student. He builds agentic AI systems, RAG pipelines, and TypeScript web products.
+### 01
+**Understand**
 
-**What has Nitish built?**
+Build the right thing before trying to build it fast.
 
-[ForgeMind](https://github.com/Cod4Nitish/ForgeMind) — an AI software engineer coordinating GitHub, Jira and Slack with LangGraph and Claude.
+</td>
 
-[MRStay AI](https://github.com/Cod4Nitish/MRStay_AI) — an agentic real-estate assistant with FastAPI, Gemini and ChromaDB.
+<td width="33%" align="center">
 
-[PhishGuard-AI](https://github.com/Cod4Nitish/PhishGuard-AI) — a phishing-awareness UX prototype.
+### 02
+**Build**
 
-**Which technologies does he use?**
+Prefer working systems, clear architecture, and useful iterations.
 
-TypeScript, JavaScript, Python, React, Next.js, Node.js, NestJS, FastAPI, PostgreSQL, LangChain, LangGraph, RAG, Docker and GitHub Actions.
+</td>
 
-**Is he available for work?**
+<td width="33%" align="center">
 
-He is open to internships, collaborations and product-focused engineering roles.
+### 03
+**Improve**
+
+Test, document, review, and keep making the system better.
+
+</td>
+</tr>
+</table>
+
+<br>
+
+## 👨‍💻 About Me
+
+I’m **Nitish Singh**, an AI and full-stack developer from India and a B.Tech Computer Science (AI) student.
+
+I’m particularly interested in building **agentic AI systems, RAG pipelines, backend platforms, and polished TypeScript applications**.
+
+### Currently focused on
+
+- Building practical AI products
+- Learning deeper AI system architecture
+- Improving backend and distributed-system fundamentals
+- Exploring agent orchestration
+- Turning product ideas into working software
 
 <br>
 
 <p align="center">
   <img
     src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:7C3AED,50:58A6FF,100:2563EB"
-    width="80%"
+    width="70%"
     alt=""
   />
 </p>
@@ -349,7 +390,7 @@ He is open to internships, collaborations and product-focused engineering roles.
     <img src="https://img.shields.io/badge/Email-Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://github.com/Cod4Nitish">
-    <img src="https://img.shields.io/badge/GitHub-Cod4Nitish-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" />
+    <img src="https://img.shields.io/badge/GitHub-Cod4Nitish-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
 

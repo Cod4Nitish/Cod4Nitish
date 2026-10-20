@@ -98,6 +98,32 @@ I enjoy taking products from:
 
 <table>
 <tr>
+<td colspan="2" valign="top">
+
+### 💧 DropMorph
+
+**Drag-and-Drop File Converter** · *Drag. Drop. Morphed.*
+
+A free, offline file converter for Windows, macOS and Linux. Hold Ctrl, drag a file and drop it on a format in the donut at your cursor. 254 formats, nothing uploaded.
+
+**Stack**
+
+`C#` · `.NET 10` · `Avalonia UI` · `GitHub Actions`
+
+<a href="https://dropmorph.vercel.app">
+  <img src="https://img.shields.io/badge/Visit%20Website-0D9488?style=for-the-badge&logo=vercel&logoColor=white" alt="DropMorph website" />
+</a>
+<a href="https://github.com/Cod4Nitish/DropMorph">
+  <img src="https://img.shields.io/badge/Explore%20DropMorph-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="DropMorph" />
+</a>
+<a href="https://github.com/Cod4Nitish/DropMorph/releases/latest">
+  <img src="https://img.shields.io/badge/Download%20for%20Windows-FF6B35?style=for-the-badge&logo=windows&logoColor=white" alt="Download DropMorph" />
+</a>
+
+</td>
+</tr>
+
+<tr>
 <td width="50%" valign="top">
 
 ### 🔥 ForgeMind

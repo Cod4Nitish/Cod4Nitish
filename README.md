@@ -24,7 +24,7 @@
 </p>
 
 <p align="center">
-  <a href="https://cod4nitish.github.io/portfolio/">
+  <a href="https://nitish-portfolio-bice-three.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-0B1021?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://www.linkedin.com/in/nitish-ai-engineer">
@@ -168,13 +168,13 @@ An in-development AI platform for real-estate conversations, lead qualification,
 
 **Interactive Developer Portfolio**
 
-An interactive portfolio showcasing selected product, engineering, and creative work.
+A hand-built portfolio with a guided explore mode, live GitHub activity, a visitor counter, and résumés generated from one data file. Smooth on low-end phones.
 
 **Stack**
 
-`React` · `Vite` · `Three.js` · `Framer Motion`
+`HTML` · `CSS` · `JavaScript` · `Vercel Functions`
 
-<a href="https://cod4nitish.github.io/portfolio/">
+<a href="https://nitish-portfolio-bice-three.vercel.app/">
   <img src="https://img.shields.io/badge/Visit%20Portfolio-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
 </a>
 
@@ -406,7 +406,7 @@ I’m particularly interested in building **agentic AI systems, RAG pipelines, b
 ## 🤝 Let's Connect
 
 <p align="center">
-  <a href="https://cod4nitish.github.io/portfolio/">
+  <a href="https://nitish-portfolio-bice-three.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-Visit-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://www.linkedin.com/in/nitish-ai-engineer">
